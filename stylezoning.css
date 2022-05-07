@@ -1,0 +1,259 @@
+﻿body{
+
+background: #CCE;
+border-color: white;
+margin: auto;
+
+}
+
+#zonecentrale
+{
+
+background: #EEE;
+width: 912px;
+margin: auto;
+background-color: #DBDBDB;
+
+}
+
+header {
+
+display: flex;
+border: #DBDBDB;
+
+}
+
+ #titre_principal {
+
+display: flex;
+height: 150px;
+width: 292px;
+background-color:#DBDBDB;
+margin: 6px;
+
+}
+
+div {
+
+margin: 6px;
+font-family: 'Sintony', sans-serif;
+
+}
+
+#logo {
+
+margin-top: 8px;
+height: 70px;
+margin-left: 8px;
+
+}
+
+#john {
+
+width: 1033px;
+height: 30px;
+font-family: 'Damion', cursive;
+font-size: 43px;
+margin-top: 40px;
+
+}
+
+#etudiant {
+
+margin-top: 108px;
+margin-left: 8px;
+width: 321px;
+font-size: 26px;
+position: absolute;
+
+}
+
+nav
+
+{
+
+background-color:#5A5;
+height:150px;
+width: 596px;
+margin: 6px;
+text-align: right;
+
+}
+
+
+#banniere_img {
+
+background-color:#E59;
+background-image: url(images/batiment.jpg);
+box-shadow: 1px 1px 5px;
+border-radius: 7px;
+height: 100%;
+width: 900px;
+
+    }
+
+ 
+
+#banniere_description {
+
+height: 150px;
+background-color: rgba(24,24,24,0.8);
+color: white;
+margin: 0px;
+border-radius: 7px;
+opacity: 0.9;
+
+    }
+
+section {
+
+display: flex;
+color: white;
+
+}
+
+ article {
+
+margin: 6px;
+height: 500px;
+background-color:#DBDBDB;
+width: 596px;
+margin-left: -906px;
+color: black;
+
+}
+
+aside {
+background-image: url(images/illustration.png );
+background-repeat:no-repeat ;
+background-position-x: center;
+background-position-y: 45px;
+margin: 6px;
+background-color: #786c64;
+height: 500px;
+width: 292px;
+margin-left: 614px;
+border-radius: 5px;
+box-shadow: 0 0 3px black;
+
+}
+
+#bulle{
+margin-left: -11px;
+}
+
+h1 {
+    margin-top: 15px;
+    margin-left: 12px;
+}
+aside p{
+    margin-top: 130px;
+    margin-left: 12px;
+}
+#img{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+footer{
+
+background-color:#DDD;
+display: flex;
+
+   }
+
+#tweet
+
+{
+
+background-color:#DBDBDB;
+width: 292px;
+height:125px;
+border-radius: 3px;
+box-shadow: 2px 2px 3px black;
+
+}
+#tweet p {
+    margin-left: 6px;
+}
+
+ #mes_photos
+
+{
+
+background-color:#DBDBDB;
+width: 292px;
+height:125px;
+border-radius: 3px;
+box-shadow: 2px 2px 3px black;
+
+}
+h2{
+    font-size: 100%;
+    margin-top: 0;
+    font-weight: normal;
+}
+
+#img2{
+    border: solid;
+}
+
+ #mes_liens
+
+{
+
+background-color:#DBDBDB;
+width: 292px;
+height:125px;
+border-radius: 3px;
+box-shadow: 2px 2px 3px black;
+
+}
+
+
+
+#ul1 {
+
+list-style: none;
+display: flex;
+text-align: center;
+margin-left: 215px;
+margin-top: 112px;
+
+}
+
+li {
+
+width: 84px;
+
+}
+
+#cv {
+
+width: 50px;
+
+}
+
+a {
+
+color: black;
+text-decoration: none;
+
+}
+
+a:hover {
+
+color: red;
+text-decoration: underline;
+
+}
+
+#menu {
+
+background-color: #DBDBDB;
+
+}
+
+
+
+
